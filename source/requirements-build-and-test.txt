@@ -27,7 +27,7 @@ aws_cdk.aws_sns==1.126.0
 aws_cdk.aws_stepfunctions==1.126.0
 aws_cdk.aws_stepfunctions_tasks==1.126.0
 aws_solutions_constructs.aws_lambda_sns==1.126.0
--e cdk_solution_helper_py/helpers_cdk
--e cdk_solution_helper_py/helpers_common
+-e ../cdk_solution_helper_py/helpers_cdk
+-e ../cdk_solution_helper_py/helpers_common
 -e infrastructure
 -e forecast-shared
